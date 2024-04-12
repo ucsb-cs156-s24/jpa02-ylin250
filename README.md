@@ -3,7 +3,7 @@
 Repo: https://github.com/ucsb-cs156-s24/jpa02-ylin250.git
 
 
-Deployed at: http://jpa02-ylin250.dokku-09.cs.ucsb.edu/
+Deployed at: http://jpa02-ylin250.dokku-09.cs.ucsb.edu/git
 
 
 # About this repo
